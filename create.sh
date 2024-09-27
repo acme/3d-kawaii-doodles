@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # Setup file names and paths
-NAME=donut
+NAME=astrobot
 DOODLE=doodle.scad 
 SVG=data/${NAME}.svg
 STL=data/${NAME}.stl
